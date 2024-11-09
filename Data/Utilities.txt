@@ -1,0 +1,39 @@
+[
+  {
+"utilities_id":1,
+"customer_id":1,
+"billing_date":"2024-10-01",
+"electric_rate":12.05,
+"water_rate":35,
+"rent_rate":11000,
+"eprev_read":13965,
+"ecurr_read":14394,
+"wprev_read":742,
+"wcurr_read":760
+  },
+  {
+"utilities_id":2,
+"customer_id":2,
+"billing_date":"2024-10-01",
+"electric_rate":12.05,
+"water_rate":35,
+"rent_rate":10000,
+"eprev_read":4520,
+"ecurr_read":4761,
+"wprev_read":222,
+"wcurr_read":229
+  },
+
+  {
+"utilities_id":3,
+"customer_id":3,
+"billing_date":"2024-10-01",
+"electric_rate":12.05,
+"water_rate":35,
+"rent_rate":11000,
+"eprev_read":12243,
+"ecurr_read":12621,
+"wprev_read":563,
+"wcurr_read":593
+  }
+]
