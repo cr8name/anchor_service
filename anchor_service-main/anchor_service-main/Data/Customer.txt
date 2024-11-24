@@ -1,0 +1,26 @@
+"customer_id":1,
+"first_name":"Paula",
+"last_name":"Luna",
+"address":"Daraga,Albay",
+"current_status":"Active",
+"date_created":"2021-01-01T00:00:00",
+"last_edited":"2024-10-06"
+  },
+  {
+"customer_id":2,
+"first_name":"Ian",
+"last_name":"Auro",
+"address":"Naga,City",
+"current_status":"Active",
+"date_created":"2021-01-01T00:00:00",
+"last_edited":"2024-10-06"
+  },
+  {
+"customer_id":3,
+"first_name":"Jordan",
+"last_name":"Abrique",
+"address":"Daraga,Albay",
+"current_status":"Active",
+"date_created":"2024-01-01T00:00:00",
+"last_edited":"2024-10-06"
+  }
